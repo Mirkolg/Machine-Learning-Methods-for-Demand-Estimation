@@ -6,3 +6,5 @@ This repository contains a modified version of the code published on https://www
 2. additional more complex discrete choice modells (mixed and nested logit)
 3. additional Script for out of sample period forecasts insteed of random sample forecasts
 
+Unfortunately I am not able to provide the underlying dataset since I got it threw the academic liscence from my university.
+
